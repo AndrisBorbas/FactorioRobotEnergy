@@ -1,0 +1,11 @@
+{
+  "name": "epic_robot_energy",
+  "version": "4.1.0",
+  "title": "Robot Energy",
+  "author": "Epic",
+  "contact": "twitch.tv/epicgamingvideos",
+  "homepage": "http://twitch.tv/epicgamingvideos",
+  "description": "Multiplies the maximum energy of construction bots by 4, or by desired amount.",
+  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.16"
+}
