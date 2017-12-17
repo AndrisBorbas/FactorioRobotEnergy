@@ -1,0 +1,11 @@
+{
+  "name": "epic_robot_energy",
+  "version": "2.0.0",
+  "title": "Robot Energy",
+  "author": "Epic",
+  "contact": "twitch.tv/epicgamingvideos",
+  "homepage": "http://twitch.tv/epicgamingvideos",
+  "description": "Increases the maximum stored energy of logistic robots by 4",
+  "dependencies": ["base >= 0.14"],
+  "factorio_version": "0.14"
+}
