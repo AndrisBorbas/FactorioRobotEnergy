@@ -1,0 +1,11 @@
+{
+  "name": "epic_robot_energy",
+  "version": "7.0.0",
+  "title": "Robot Energy",
+  "author": "BAndrisHuN",
+  "contact": "https://github.com/AndrisBorbas/FactorioRobotEnergy/issues",
+  "homepage": "https://github.com/AndrisBorbas/FactorioRobotEnergy",
+  "description": "Multiplies the maximum energy of construction bots by 4, or by desired amount.",
+  "dependencies": ["base >= 1.0"],
+  "factorio_version": "1.0"
+}
